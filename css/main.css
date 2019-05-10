@@ -31,9 +31,9 @@ html,
 body{overflow-x: hidden;}
 */
 body {
-	color: #777;
+	color: #333;
 	background: #fff;
-	font: 300 14px/24px 'Montserrat', Arial, Helvetica, sans-serif;
+	font: 500 14px/24px 'Montserrat', Arial, Helvetica, sans-serif;
 }
 body h1,
 body h2,
@@ -43,7 +43,7 @@ body h5,
 body h6 {
 	color: #1c1c1c;
 	margin: 0 0 8px;
-	font-weight: 400;
+	font-weight: 500;
 	line-height: 1.5;
 	font-style: normal;
 	text-transform:capitalize;
@@ -979,7 +979,7 @@ body.tg-404errorpage .tg-wrapper {height: 100%;}
 	float: left;
 	color: #777;
 	font-size: 16px;
-	font-weight: 300;
+	font-weight: 500;
 	line-height: 20px;
 }
 .tg-sectionhead .tg-description p{margin: 0;}
@@ -4267,10 +4267,11 @@ li.menu-item-has-children:hover > .mega-menu{
 .tg-aboutus{
 	width: 100%;
 	float: left;
-	color: #777;
+	color: #333;
 	font-size: 16px;
+	font-weight: 500;
 	line-height: 31px;
-	text-align: left;
+	text-align: justify;
 	padding: 0 50% 0 0;
 }
 .tg-aboutus .tg-sectionhead{text-align: left;}
